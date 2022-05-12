@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I'm currently persuing B.Tech.,on the streaming field ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
+### 
 <!--
 **kworld123/kworld123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
