@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I'm kiruthiga currently persuing B.Tech.,on the streaming field ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
-### I'm learning  classical A.I,machine leraning and doing some crazy tasks with it 
-### I have a passion for learning and sharing my knowledge with others as publicly as possible
-### learning one new thing everyday....
+### I'm kiruthiga currently persuing B.Tech in ARTIFICIAL INTELLIGENCE AND DATA SCIENCE.I'm ambitious and driven and I'm a person who loves to do projects..I'm currently doing projects in the area of A.I and Machine learning.. 
+### I have a passion for learning and sharing my knowledge with others as publicly as possible..
+### Learning one new thing everyday....
+###connect with me
+###Linkedin-https://www.linkedin.com/in/kiruthiga-ravi-127140253
