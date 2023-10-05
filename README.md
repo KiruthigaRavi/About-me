@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=" https://github.com/KiruthigaRavi/About-me/assets/104771518/22b80022-899e-48bd-9f04-f78245f36021 "alt=”my banner”>
+<img width=”200" height=”200" src=" https://github.com/KiruthigaRavi/About-me/assets/104771518/22b80022-899e-48bd-9f04-f78245f36021" alt="my banner" >
 
 </p>
 
