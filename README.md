@@ -7,7 +7,6 @@
 - 🌱 &nbsp; Enthusiast in full-stack ,Android App Development and AI/Ml ..
 - ✍️ &nbsp; Knowledge in App development,created a basic website and also done projects in Ml..
 
-
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JavaBasics  
